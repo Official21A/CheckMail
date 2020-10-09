@@ -7,12 +7,13 @@ import email
 # -------------------------------------------------
 #
 # Utility to read email from Gmail Using Python
+# Created by amirhossein
 #
 # ------------------------------------------------
 
 ORG_EMAIL   = "@gmail.com"
-FROM_EMAIL  = "officialamirhossein21" + ORG_EMAIL
-FROM_PWD    = "Amir2222"
+FROM_EMAIL  = "yourmail" + ORG_EMAIL
+FROM_PWD    = "yourpass"
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT   = 993
 
